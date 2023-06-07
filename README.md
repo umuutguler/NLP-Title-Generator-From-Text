@@ -12,5 +12,7 @@ Finally, an LSTM language model is trained on the data DataFrame. The LSTM model
 The project involves training a language model based on the title and text data from the database, preprocessing the text data, and then using the language model to generate a text headline.
 
 ## Datasets
+
 https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
+
 https://www.kaggle.com/datasets/pariza/bbc-news-summary?resource=download
