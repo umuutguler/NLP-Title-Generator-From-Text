@@ -1,4 +1,4 @@
-# NLP-Title-Generator-From-Text
+# Title Generator From Text
 This project aims to use an LSTM (Long Short-Term Memory) language model to learn from two databases containing titles and texts, and generate a headline based on the given text. The project utilizes two databases: one consists of text files located in a specific folder on Google Drive, and the other is a database obtained from a CSV file named 'fakenewdata.csv' containing title and text data.
 
 The project starts by mounting Google Drive and importing the necessary libraries for data processing. Then, the folder path where the text files are located is defined, and the content of the files is read. The content is split into titles and texts, and these data points are added to a DataFrame.
